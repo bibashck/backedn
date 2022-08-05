@@ -16,7 +16,7 @@
     "express-validator": "^6.1.1",
     "extract-mongo-schema": "^0.2.9",
     "jest": "^24.8.0",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "multer": "^1.4.1",
     "nodemon": "^1.19.1",
